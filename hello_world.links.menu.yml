@@ -1,0 +1,10 @@
+hello_world.hello:
+  title: 'Hello World'
+  route_name: hello_world.hello
+
+hello_world.admin:
+    title: 'Administración del módulo Hello World'
+    description: 'Este módulo sirve para mostrar información de prueba.'
+    route_name: hello_world.settings
+    weight: 120
+    parent: system.admin_config_development

@@ -1,0 +1,6 @@
+name: Hello World
+type: module
+description: Hello World module
+core: 8.x
+package: Custom
+configure: hello_world.settings
